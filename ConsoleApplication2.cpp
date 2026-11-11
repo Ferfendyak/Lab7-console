@@ -4,6 +4,7 @@
 using namespace std;
 int main()
 {
+	// Зміна з консолі Git
     double n, p, m, s, T;
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
