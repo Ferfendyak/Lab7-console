@@ -18,4 +18,4 @@ int main()
     scanf_s("%lf", &s);
     T = p + (n - p * m) / s;
     printf("T = %lf\n", T);
-}
+}// Lab 9: changes
